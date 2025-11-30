@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.methetech.com/wp-content/uploads/2023/11/me-the-tech-logo-1.png" alt="Me the Tech Logo" width="400"/>
+  <img src=["https://www.methetech.com/wp-content/uploads/2023/11/me-the-tech-logo-1.png](https://static.wixstatic.com/media/685d2b_e7905358e1594ec6979c8de50f5ffc29~mv2.png/v1/fill/w_600,h_865,al_c,q_90,enc_avif,quality_auto/685d2b_e7905358e1594ec6979c8de50f5ffc29~mv2.png)" alt="Me the Tech Logo" width="400"/>
 </div>
 
 <h1 align="center">Me the Tech</h1>
